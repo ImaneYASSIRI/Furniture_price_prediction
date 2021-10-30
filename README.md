@@ -25,6 +25,14 @@ Pour accéder à l'application, il faut consulter l'endpoint suivant dans le nav
 - Jinja2
 - Uvicorn
 
+### Demo
+![](Pictures/Capture1.PNG)
+
+![](Pictures/Capture2.PNG)
+
+
+
+
 
 
 
